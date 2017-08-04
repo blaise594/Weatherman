@@ -1,4 +1,4 @@
-# WeathermanRevised
+# Weatherman
 - This application shows the use of the following technologies:
   - C#
   - The use of an API
